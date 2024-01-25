@@ -7,6 +7,7 @@ Analysis and Web Programming. Published researcher and active participant in
 industry events, committed to continuous learning and growth.</h3>
 
 - 📫 How to reach me **rajvardhanpatil112@gmail.com**
+- Know more ....  **https://rajvardhanpatil112.netlify.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
