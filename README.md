@@ -22,8 +22,8 @@ industry events, committed to continuous learning and growth.</h3>
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajvardhan19&theme=radical)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajvardhan19&theme=radical)
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rajvardhan19&theme=radical)](https://github.com/rajvardhan19/rajvardhan19)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rajvardhan19&theme=radical)](https://github.com/rajvardhan19/rajvardhan19) -->
